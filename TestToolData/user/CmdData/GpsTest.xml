@@ -1,0 +1,939 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<userdata name="cmdline" version="1.0">
+  <setting id="1">
+    <used>no</used>
+    <len>1</len>
+    <headfill>77777</headfill>
+    <head>3A</head>
+    <end>5B</end>
+    <endfill>\r\n</endfill>
+    <onlyfillend>yes</onlyfillend>
+  </setting>
+  <pages>
+    <page id="1" name="" AutoTx="">
+      <cmdline id="1">
+        <name>打开</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>关闭</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="3">
+        <name>num3</name>
+        <hex>NO</hex>
+        <text>12 34 56 88 88 88 88</text>
+      </cmdline>
+      <cmdline id="4">
+        <name>99</name>
+        <hex>NO</hex>
+        <text>12 34 56 99 99 99</text>
+      </cmdline>
+      <cmdline id="5">
+        <name>num5</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="6">
+        <name>num6</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="7">
+        <name>num7</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="8">
+        <name>num8</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="9">
+        <name>num9</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="10">
+        <name>num10</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="11">
+        <name>num11</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="12">
+        <name>num12</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="13">
+        <name>num13</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="14">
+        <name>num14</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="15">
+        <name>num15</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="16">
+        <name>num16</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="17">
+        <name>num17</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="18">
+        <name>num18</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="19">
+        <name>num19</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="20">
+        <name>num20</name>
+        <hex>NO</hex>
+        <text>12 34 56</text>
+      </cmdline>
+    </page>
+    <page id="2" name="test888" AutoTx="no">
+      <cmdline id="1">
+        <name>未定义1</name>
+        <hex>yes</hex>
+        <text>111111</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>未定义2</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="3">
+        <name>未定义3</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="4">
+        <name>未定义4</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="5">
+        <name>未定义5</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="6">
+        <name>未定义6</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="7">
+        <name>未定义7</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="8">
+        <name>未定义8</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="9">
+        <name>未定义9</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="10">
+        <name>未定义10</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="11">
+        <name>未定义11</name>
+        <hex>no</hex>
+        <text>111111111</text>
+      </cmdline>
+      <cmdline id="12">
+        <name>未定义12</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="13">
+        <name>未定义13</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="14">
+        <name>未定义14</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="15">
+        <name>未定义15</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="16">
+        <name>未定义16</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="17">
+        <name>未定义17</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="18">
+        <name>未定义18</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="19">
+        <name>未定义19</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="20">
+        <name>未定义20</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+    </page>
+    <page id="3" name="test666" AutoTx="no">
+      <cmdline id="1">
+        <name>未定义1</name>
+        <hex>no</hex>
+        <text>222222222</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>未定义2</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="3">
+        <name>未定义3</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="4">
+        <name>未定义4</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="5">
+        <name>未定义5</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="6">
+        <name>未定义6</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="7">
+        <name>未定义7</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="8">
+        <name>未定义8</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="9">
+        <name>未定义9</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="10">
+        <name>未定义10</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="11">
+        <name>未定义11</name>
+        <hex>no</hex>
+        <text>22222222</text>
+      </cmdline>
+      <cmdline id="12">
+        <name>未定义12</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="13">
+        <name>未定义13</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="14">
+        <name>未定义14</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="15">
+        <name>未定义15</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="16">
+        <name>未定义16</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="17">
+        <name>未定义17</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="18">
+        <name>未定义18</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="19">
+        <name>未定义19</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="20">
+        <name>未定义20</name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+    </page>
+    <page id="4" name="testSimmer" AutoTx="no">
+      <cmdline id="1">
+        <name>未定义1</name>
+        <hex>yes</hex>
+        <text>333333</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>未定义2</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="3">
+        <name>未定义3</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="4">
+        <name>未定义4</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="5">
+        <name>未定义5</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="6">
+        <name>未定义6</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="7">
+        <name>未定义7</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="8">
+        <name>未定义8</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="9">
+        <name>未定义9</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="10">
+        <name>未定义10</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="11">
+        <name>未定义11</name>
+        <hex>yes</hex>
+        <text>333333</text>
+      </cmdline>
+      <cmdline id="12">
+        <name>未定义12</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="13">
+        <name>未定义13</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="14">
+        <name>未定义14</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="15">
+        <name>未定义15</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="16">
+        <name>未定义16</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="17">
+        <name>未定义17</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="18">
+        <name>未定义18</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="19">
+        <name>未定义19</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="20">
+        <name>未定义20</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+    </page>
+    <page id="5" name="testCharge" AutoTx="yes">
+      <cmdline id="1">
+        <name>未定义1</name>
+        <hex>yes</hex>
+        <text>4444444</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>未定义2</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="3">
+        <name>未定义3</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="4">
+        <name>未定义4</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="5">
+        <name>未定义5</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="6">
+        <name>未定义6</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="7">
+        <name>未定义7</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="8">
+        <name>未定义8</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="9">
+        <name>未定义9</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="10">
+        <name>未定义10</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="11">
+        <name>未定义11</name>
+        <hex>yes</hex>
+        <text>44444444</text>
+      </cmdline>
+      <cmdline id="12">
+        <name>未定义12</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="13">
+        <name>未定义13</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="14">
+        <name>未定义14</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="15">
+        <name>未定义15</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="16">
+        <name>未定义16</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="17">
+        <name>未定义17</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="18">
+        <name>未定义18</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="19">
+        <name>未定义19</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="20">
+        <name>未定义20</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+    </page>
+    <page id="6" name="testCharge88" AutoTx="yes">
+      <cmdline id="1">
+        <name>未定义1</name>
+        <hex>yes</hex>
+        <text>666666666</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>未定义2</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="3">
+        <name>未定义3</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="4">
+        <name>未定义4</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="5">
+        <name>未定义5</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="6">
+        <name>未定义6</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="7">
+        <name>未定义7</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="8">
+        <name>未定义8</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="9">
+        <name>未定义9</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="10">
+        <name>未定义10</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="11">
+        <name>未定义11</name>
+        <hex>yes</hex>
+        <text>66666666</text>
+      </cmdline>
+      <cmdline id="12">
+        <name>未定义12</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="13">
+        <name>未定义13</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="14">
+        <name>未定义14</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="15">
+        <name>未定义15</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="16">
+        <name>未定义16</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="17">
+        <name>未定义17</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="18">
+        <name>未定义18</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="19">
+        <name>未定义19</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="20">
+        <name>未定义20</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+    </page>
+    <page id="7" name="" AutoTx="">
+      <cmdline id="1">
+        <name>未定义1</name>
+        <hex>yes</hex>
+        <text>99999</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>未定义2</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="3">
+        <name>未定义3</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="4">
+        <name>未定义4</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="5">
+        <name>未定义5</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="6">
+        <name>未定义6</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="7">
+        <name>未定义7</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="8">
+        <name>未定义8</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="9">
+        <name>未定义9</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="10">
+        <name>未定义10</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="11">
+        <name>未定义11</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="12">
+        <name>未定义12</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="13">
+        <name>未定义13</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="14">
+        <name>未定义14</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="15">
+        <name>未定义15</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="16">
+        <name>未定义16</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="17">
+        <name>未定义17</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="18">
+        <name>未定义18</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="19">
+        <name>未定义19</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="20">
+        <name>未定义20</name>
+        <hex>yes</hex>
+        <text>
+        </text>
+      </cmdline>
+    </page>
+    <page id="8" name="888" AutoTx="no">
+      <cmdline id="1">
+        <name>未定义1</name>
+        <hex>yes</hex>
+        <text>8888888</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>未定义2</name>
+        <hex>yes</hex>
+        <text>8888888</text>
+      </cmdline>
+      <cmdline id="3">
+        <name>未定义3</name>
+        <hex>yes</hex>
+        <text>888888888</text>
+      </cmdline>
+      <cmdline id="4">
+        <name>未定义4</name>
+        <hex>yes</hex>
+        <text>88888888888</text>
+      </cmdline>
+      <cmdline id="5">
+        <name>未定义5</name>
+        <hex>yes</hex>
+        <text>8888888888888</text>
+      </cmdline>
+      <cmdline id="6">
+        <name>未定义6</name>
+        <hex>yes</hex>
+        <text>88888888888888</text>
+      </cmdline>
+      <cmdline id="7">
+        <name>未定义7</name>
+        <hex>yes</hex>
+        <text>888888888888888</text>
+      </cmdline>
+      <cmdline id="8">
+        <name>未定义8</name>
+        <hex>yes</hex>
+        <text>88888888888888888</text>
+      </cmdline>
+      <cmdline id="9">
+        <name>未定义9</name>
+        <hex>yes</hex>
+        <text>888888888888888888</text>
+      </cmdline>
+      <cmdline id="10">
+        <name>未定义10</name>
+        <hex>yes</hex>
+        <text>88888888888888888888</text>
+      </cmdline>
+      <cmdline id="11">
+        <name>未定义11</name>
+        <hex>yes</hex>
+        <text>8888</text>
+      </cmdline>
+      <cmdline id="12">
+        <name>未定义12</name>
+        <hex>yes</hex>
+        <text>888888</text>
+      </cmdline>
+      <cmdline id="13">
+        <name>未定义13</name>
+        <hex>yes</hex>
+        <text>88888888</text>
+      </cmdline>
+      <cmdline id="14">
+        <name>未定义14</name>
+        <hex>yes</hex>
+        <text>888888888</text>
+      </cmdline>
+      <cmdline id="15">
+        <name>未定义15</name>
+        <hex>yes</hex>
+        <text>88888888888</text>
+      </cmdline>
+      <cmdline id="16">
+        <name>未定义16</name>
+        <hex>yes</hex>
+        <text>8888888888888</text>
+      </cmdline>
+      <cmdline id="17">
+        <name>未定义17</name>
+        <hex>yes</hex>
+        <text>888888888888888</text>
+      </cmdline>
+      <cmdline id="18">
+        <name>未定义18</name>
+        <hex>yes</hex>
+        <text>8888888888888888</text>
+      </cmdline>
+      <cmdline id="19">
+        <name>未定义19</name>
+        <hex>yes</hex>
+        <text>88888888888888888888</text>
+      </cmdline>
+      <cmdline id="20">
+        <name>未定义20</name>
+        <hex>yes</hex>
+        <text>8888888888888888888888</text>
+      </cmdline>
+    </page>
+  </pages>
+</userdata>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<userdata name="cmdline" version="1.0">
+  <setting id="1">
+    <used>no</used>
+    <len>1</len>
+    <headfill>111111</headfill>
+    <head>55</head>
+    <end>66</end>
+    <endfill>\n</endfill>
+    <onlyfillend>yes</onlyfillend>
+  </setting>
+  <pages>
+    <page id="1" name="" AutoTx="no">
+      <cmdline id="1">
+        <name>AT连接</name>
+        <hex>no</hex>
+        <text>AT</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>复位模块</name>
+        <hex>no</hex>
+        <text>AT+RESET</text>
+      </cmdline>
+      <cmdline id="3">
+        <name>查询版本</name>
+        <hex>no</hex>
+        <text>AT+VERSION?</text>
+      </cmdline>
+      <cmdline id="4">
+        <name>恢复默认状态</name>
+        <hex>no</hex>
+        <text>AT+ORGL</text>
+      </cmdline>
+      <cmdline id="5">
+        <name>获取地址</name>
+        <hex>no</hex>
+        <text>AT+ADDR?</text>
+      </cmdline>
+      <cmdline id="6">
+        <name>获取设备名</name>
+        <hex>no</hex>
+        <text>AT+NAME?</text>
+      </cmdline>
+      <cmdline id="7">
+        <name>查询角色</name>
+        <hex>no</hex>
+        <text>AT+ROLE?</text>
+      </cmdline>
+      <cmdline id="8">
+        <name>查询设备类</name>
+        <hex>no</hex>
+        <text>AT+CLASS?</text>
+      </cmdline>
+      <cmdline id="9">
+        <name>设备访问码</name>
+        <hex>no</hex>
+        <text>AT+IAC?</text>
+      </cmdline>
+      <cmdline id="10">
+        <name>访问模式</name>
+        <hex>no</hex>
+        <text>AT+INQM?</text>
+      </cmdline>
+      <cmdline id="11">
+        <name>配对码</name>
+        <hex>no</hex>
+        <text>AT+PSWD?</text>
+      </cmdline>
+      <cmdline id="12">
+        <name>串口参数</name>
+        <hex>no</hex>
+        <text>AT+UART?</text>
+      </cmdline>
+      <cmdline id="13">
+        <name>连接模式</name>
+        <hex>no</hex>
+        <text>AT+CMODE?</text>
+      </cmdline>
+      <cmdline id="14">
+        <name>查询绑定地址</name>
+        <hex>no</hex>
+        <text>AT+BIND?</text>
+      </cmdline>
+      <cmdline id="15">
+        <name>P10高</name>
+        <hex>no</hex>
+        <text>AT+PIO10,1</text>
+      </cmdline>
+      <cmdline id="16">
+        <name>P10低</name>
+        <hex>no</hex>
+        <text>AT+PIO10,0</text>
+      </cmdline>
+      <cmdline id="17">
+        <name>num17</name>
+        <hex>no</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="18">
+        <name>num18</name>
+        <hex>no</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="19">
+        <name>num19</name>
+        <hex>no</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="20">
+        <name>num20</name>
+        <hex>no</hex>
+        <text>12 34 56</text>
+      </cmdline>
+    </page>
+  </pages>
+</userdata>
