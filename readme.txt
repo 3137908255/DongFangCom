@@ -1,25 +1,39 @@
-# DongFangCom
-特别提示：本软件目前不共享软件源代码
+----------------------------------------------------------------
+-------------------关于“东方串口”几个特点-----------------------
+----------------------------------------------------------------
+1、它首次实现了无限的命令行数量，命令行采用分页管理，界面上可自由切换分页，
+每页可定义一个主题名称，当然每个命令行可以自定义按键名称；
+2、首次为命令行定义一个数据保存的标准方法，依据这个标准将自定义的命令行保存为文件，
+调用即可，当然文件数量也不受限制；
+3、正是依据命令行的标准保存方法，各种模块供应商可依据此命令行标准（软件提供编辑器）
+编写自家的模块测试命令文件，只要将测试命令文件保存到本软件对应文件夹即可，
+方便模块使用者快速测试模块。
+4、一个界面实现两个串口，可以同时测试模块两个串口
+5、一个界面中两个串的命令行发送出口可以选择（可以选择左边发送，默认右边发送）
+----------------------------------------------------------------
 
+----------------------------------------------------------------
+特别提示：本软件目前不共享软件源代码
+----------------------------------------------------------------
 共享部分：所有按照《用户数据标准 V1.0.pdf》生成的“用户命令行数据”文件。
 所有人均可生成自己独立的模块测试命令数据文件，方便模块推广与研发测试。
-
+----------------------------------------------------------------
 软件结构：
 1、	DongFangCom
-2、	DongFangCom\TestTools.exe.config				//主程序运行依赖库配置文件
-3、	DongFangCom\TestTools.exe						//主程序
-3、	DongFangCom\README.md							//说明文件
-5、	DongFangCom\TestToolData						//软件数据文件目录
-6、	DongFangCom\TestToolData\bin					//软件插件/配套软件
-7、	DongFangCom\TestToolData\config					//软件配置文件目录
-8、 DongFangCom\TestToolData\doc					//软件帮助文件目录
-9、	DongFangCom\TestToolData\image					//软件图片
-10、 DongFangCom\TestToolData\user					//用户数据目录
-11、 DongFangCom\TestToolData\user\CmdData			//用户命令行数据目录
-12、 DongFangCom\TestToolData\user\Image			//用户保存的图片
-13、 DongFangCom\TestToolData\user\log				//软件运行日志
+2、	DongFangCom\TestTools.exe.config		//主程序运行依赖库配置文件
+3、	DongFangCom\TestTools.exe			//主程序
+3、	DongFangCom\README.md				//说明文件
+5、	DongFangCom\TestToolData			//软件数据文件目录
+6、	DongFangCom\TestToolData\bin			//软件插件/配套软件
+7、	DongFangCom\TestToolData\config			//软件配置文件目录
+8、 DongFangCom\TestToolData\doc			//软件帮助文件目录
+9、	DongFangCom\TestToolData\image			//软件图片
+10、 DongFangCom\TestToolData\user			//用户数据目录
+11、 DongFangCom\TestToolData\user\CmdData		//用户命令行数据目录
+12、 DongFangCom\TestToolData\user\Image		//用户保存的图片
+13、 DongFangCom\TestToolData\user\log			//软件运行日志
 14、 DongFangCom\TestToolData\user\ReceiveData		//保存的接收数据
-15、 DongFangCom\TestToolData\user\SendData			//发送数据
+15、 DongFangCom\TestToolData\user\SendData		//发送数据
 注意：以上目录结构是本软件运行的基础，软件不自动生成，需要保持其完整性
 部分目录目前没有使用到保留以后使用。
 
@@ -28,4 +42,4 @@
 特别提示：本软件目前不共享软件源代码
 
 
-													20190324
+								20190324
