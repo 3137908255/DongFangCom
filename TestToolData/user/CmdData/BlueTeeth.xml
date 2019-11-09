@@ -14,7 +14,7 @@
       <cmdline id="1">
         <name>AT连接</name>
         <hex>no</hex>
-        <text>AT</text>
+        <text>AT+5</text>
       </cmdline>
       <cmdline id="2">
         <name>复位模块</name>
