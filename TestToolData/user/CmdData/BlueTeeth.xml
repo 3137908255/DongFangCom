@@ -10,11 +10,11 @@
     <onlyfillend>yes</onlyfillend>
   </setting>
   <pages>
-    <page id="1" name="" AutoTx="no">
+    <page id="1" name="" AutoTx="">
       <cmdline id="1">
         <name>AT连接</name>
-        <hex>no</hex>
-        <text>AT+5</text>
+        <hex>NO</hex>
+        <text>AT+CONNECT</text>
       </cmdline>
       <cmdline id="2">
         <name>复位模块</name>
