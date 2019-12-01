@@ -10,10 +10,10 @@
     <onlyfillend>yes</onlyfillend>
   </setting>
   <pages>
-    <page id="1" name="" AutoTx="">
+    <page id="1" name="" AutoTx="no">
       <cmdline id="1">
         <name>AT连接</name>
-        <hex>NO</hex>
+        <hex>no</hex>
         <text>AT+CONNECT</text>
       </cmdline>
       <cmdline id="2">
@@ -94,22 +94,26 @@
       <cmdline id="17">
         <name>num17</name>
         <hex>no</hex>
-        <text>12 34 56</text>
+        <text>
+        </text>
       </cmdline>
       <cmdline id="18">
         <name>num18</name>
         <hex>no</hex>
-        <text>12 34 56</text>
+        <text>
+        </text>
       </cmdline>
       <cmdline id="19">
         <name>num19</name>
         <hex>no</hex>
-        <text>12 34 56</text>
+        <text>
+        </text>
       </cmdline>
       <cmdline id="20">
         <name>num20</name>
         <hex>no</hex>
-        <text>12 34 56</text>
+        <text>
+        </text>
       </cmdline>
     </page>
   </pages>
