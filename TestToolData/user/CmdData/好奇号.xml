@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<userdata name="cmdline" version="1.0">
+  <setting id="1">
+    <used>no</used>
+    <len>1</len>
+    <headfill>123456</headfill>
+    <head>5A</head>
+    <end>5A</end>
+    <endfill>7890AB</endfill>
+    <onlyfillend>no</onlyfillend>
+  </setting>
+  <pages>
+    <page id="1" name="行走控制" AutoTx="no">
+      <cmdline id="1">
+        <name>前进</name>
+        <hex>yes</hex>
+        <text>12 34 56 78</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>后退</name>
+        <hex>yes</hex>
+        <text>12 34 56 AB</text>
+      </cmdline>
+      <cmdline id="3">
+        <name>左转</name>
+        <hex>yes</hex>
+        <text>12 34 56 CD</text>
+      </cmdline>
+      <cmdline id="4">
+        <name>右转</name>
+        <hex>yes</hex>
+        <text>12 34 56 EF</text>
+      </cmdline>
+      <cmdline id="5">
+        <name>拍照</name>
+        <hex>yes</hex>
+        <text>12 34 56 DD</text>
+      </cmdline>
+      <cmdline id="6">
+        <name>num6</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="7">
+        <name>num7</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="8">
+        <name>num8</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="9">
+        <name>num9</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="10">
+        <name>num10</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="11">
+        <name>num11</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="12">
+        <name>num12</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="13">
+        <name>num13</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="14">
+        <name>num14</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="15">
+        <name>num15</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="16">
+        <name>num16</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="17">
+        <name>num17</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="18">
+        <name>num18</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="19">
+        <name>num19</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="20">
+        <name>num20</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+    </page>
+    <page id="2" name="探测控制" AutoTx="no">
+      <cmdline id="1">
+        <name>钻孔1</name>
+        <hex>yes</hex>
+        <text>55 66</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>钻孔2</name>
+        <hex>yes</hex>
+        <text>55 77</text>
+      </cmdline>
+      <cmdline id="3">
+        <name>钻孔3</name>
+        <hex>yes</hex>
+        <text>55 88</text>
+      </cmdline>
+      <cmdline id="4">
+        <name>探头1</name>
+        <hex>yes</hex>
+        <text>88 99</text>
+      </cmdline>
+      <cmdline id="5">
+        <name>探头2</name>
+        <hex>yes</hex>
+        <text>88 AA</text>
+      </cmdline>
+      <cmdline id="6">
+        <name>探头3</name>
+        <hex>yes</hex>
+        <text>88 BB</text>
+      </cmdline>
+      <cmdline id="7">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="8">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="9">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="10">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="11">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="12">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="13">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="14">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="15">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="16">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="17">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="18">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="19">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+      <cmdline id="20">
+        <name>
+        </name>
+        <hex>no</hex>
+        <text>
+        </text>
+      </cmdline>
+    </page>
+  </pages>
+</userdata>

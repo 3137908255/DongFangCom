@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<userdata name="cmdline" version="1.0">
+  <setting id="1">
+    <used>yes</used>
+    <len>1</len>
+    <headfill>12</headfill>
+    <head>5A</head>
+    <end>A5</end>
+    <endfill>78</endfill>
+    <onlyfillend>no</onlyfillend>
+  </setting>
+  <pages>
+    <page id="1" name="test" AutoTx="no">
+      <cmdline id="1">
+        <name>计算%</name>
+        <hex>yes</hex>
+        <text>00 12 01</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>打印缓存</name>
+        <hex>yes</hex>
+        <text>01 12 02</text>
+      </cmdline>
+      <cmdline id="3">
+        <name>计算%输出</name>
+        <hex>yes</hex>
+        <text>02 12 03</text>
+      </cmdline>
+      <cmdline id="4">
+        <name>RST缓存</name>
+        <hex>yes</hex>
+        <text>03 12 04</text>
+      </cmdline>
+      <cmdline id="5">
+        <name>num5</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="6">
+        <name>num6</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="7">
+        <name>num7</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="8">
+        <name>num8</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="9">
+        <name>num9</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="10">
+        <name>num10</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="11">
+        <name>num11</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="12">
+        <name>num12</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="13">
+        <name>num13</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="14">
+        <name>num14</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="15">
+        <name>num15</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="16">
+        <name>num16</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="17">
+        <name>num17</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="18">
+        <name>num18</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="19">
+        <name>num19</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="20">
+        <name>num20</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+    </page>
+    <page id="1" name="test" AutoTx="no">
+      <cmdline id="1">
+        <name>计算%</name>
+        <hex>yes</hex>
+        <text>00 12 01</text>
+      </cmdline>
+      <cmdline id="2">
+        <name>打印缓存</name>
+        <hex>yes</hex>
+        <text>01 12 02</text>
+      </cmdline>
+      <cmdline id="3">
+        <name>计算%输出</name>
+        <hex>yes</hex>
+        <text>02 12 03</text>
+      </cmdline>
+      <cmdline id="4">
+        <name>RST缓存</name>
+        <hex>yes</hex>
+        <text>03 12 04</text>
+      </cmdline>
+      <cmdline id="5">
+        <name>num5</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="6">
+        <name>num6</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="7">
+        <name>num7</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="8">
+        <name>num8</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="9">
+        <name>num9</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="10">
+        <name>num10</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="11">
+        <name>num11</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="12">
+        <name>num12</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="13">
+        <name>num13</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="14">
+        <name>num14</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="15">
+        <name>num15</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="16">
+        <name>num16</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="17">
+        <name>num17</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="18">
+        <name>num18</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="19">
+        <name>num19</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+      <cmdline id="20">
+        <name>num20</name>
+        <hex>yes</hex>
+        <text>12 34 56</text>
+      </cmdline>
+    </page>
+  </pages>
+</userdata>
